@@ -1,0 +1,5 @@
+C:\Users\pitchaimuthu\Downloads\jTable-ASPNET-Samples (1)\jTable-ASPNET-Samples\jTableSampleDatabaseLayer\bin\Debug\jTableSampleDatabaseLayer.dll
+C:\Users\pitchaimuthu\Downloads\jTable-ASPNET-Samples (1)\jTable-ASPNET-Samples\jTableSampleDatabaseLayer\bin\Debug\jTableSampleDatabaseLayer.pdb
+C:\Users\pitchaimuthu\Downloads\jTable-ASPNET-Samples (1)\jTable-ASPNET-Samples\jTableSampleDatabaseLayer\obj\Debug\jTableSampleDatabaseLayer.csprojResolveAssemblyReference.cache
+C:\Users\pitchaimuthu\Downloads\jTable-ASPNET-Samples (1)\jTable-ASPNET-Samples\jTableSampleDatabaseLayer\obj\Debug\jTableSampleDatabaseLayer.dll
+C:\Users\pitchaimuthu\Downloads\jTable-ASPNET-Samples (1)\jTable-ASPNET-Samples\jTableSampleDatabaseLayer\obj\Debug\jTableSampleDatabaseLayer.pdb
